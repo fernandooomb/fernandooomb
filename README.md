@@ -1,5 +1,6 @@
 ## 🔥Soy Fernando Marroquin 🔥
 
+## Primer año estudiando Ingeneria Informatica
 <!--
 **fernandooomb/fernandooomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
