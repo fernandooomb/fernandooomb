@@ -1,17 +1,15 @@
-## 🔥Soy Fernando Marroquin 🔥
+# 🔥¡Hola! Soy Fernando Marroquín 🔥
+📖 Estudiate de Ingeneria Informatica
 
-## Primer año estudiando Ingeneria Informatica
-<!--
-**fernandooomb/fernandooomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📝 Me gusta aprender siempre cosas nuevas y dominarlas al máximo
 
-Here are some ideas to get you started:
+👨‍🏫 Disfruto de enseñar y ayudar con todo lo que se
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+🏋️Me gusta entrenar arterofilia
+
+💻 Aficionado de las computadoras
+
+🎦 Disfruto de ver anime
+
